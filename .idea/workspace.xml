@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0835adb5-e1ff-4906-8ff4-150399c66a9c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPTest/com/colucy/Main.class" afterPath="$PROJECT_DIR$/out/production/OOPTest/com/colucy/Main.class" />
-      <change beforePath="$PROJECT_DIR$/src/com/colucy/HealthyBurger.java" afterPath="$PROJECT_DIR$/src/com/colucy/HealthyBurger.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/colucy/DeluxeBurger.java" afterPath="$PROJECT_DIR$/src/com/colucy/DeluxeBurger.java" />
       <change beforePath="$PROJECT_DIR$/src/com/colucy/Main.java" afterPath="$PROJECT_DIR$/src/com/colucy/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/colucy/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="132" lean-forward="false" selection-start-line="10" selection-start-column="132" selection-end-line="10" selection-end-column="132" />
+            <state relative-caret-position="210">
+              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -50,12 +48,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeluxeBurger.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DeluxeBurger.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/colucy/DeluxeBurger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="150">
+              <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding>
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,10 +83,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/colucy/DeluxeBurger.java" />
         <option value="$PROJECT_DIR$/src/com/colucy/Hamburger.java" />
         <option value="$PROJECT_DIR$/src/com/colucy/HealthyBurger.java" />
         <option value="$PROJECT_DIR$/src/com/colucy/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/colucy/DeluxeBurger.java" />
       </list>
     </option>
   </component>
@@ -242,14 +245,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/colucy/DeluxeBurger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/colucy/Hamburger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -271,9 +266,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/colucy/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="132" lean-forward="false" selection-start-line="10" selection-start-column="132" selection-end-line="10" selection-end-column="132" />
+        <state relative-caret-position="210">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/colucy/DeluxeBurger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

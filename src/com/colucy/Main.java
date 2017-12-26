@@ -10,6 +10,9 @@ public class Main {
 
         HealthyBurger healthyBurger = new HealthyBurger("Healthy", 6.50, "Brown rye", "Bacon", true, true, true, false, true, true);
         System.out.println("Total burger price is " + healthyBurger.burgerPrice());
+
+        DeluxeBurger db = new DeluxeBurger();
+        db.burgerPrice();
     }
 
 
